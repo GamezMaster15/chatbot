@@ -1,0 +1,649 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123814915@s.whatsapp.net',
+    fromMe: false,
+    id: '71308D02B005F487E2CE0C4A1377B145',
+    participant: undefined
+  },
+  messageTimestamp: 1731466989,
+  pushName: 'Ariadny Acasme',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/30703040_858521649824736_3765245126875740066_n.enc?ccb=11-4&oh=01_Q5AaIL_ubV-wN0jch6J7zyeS1bpYsmkcpxIdQTXfrkMj60LJ&oe=675B7F29&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 571,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/30703040_858521649824736_3765245126875740066_n.enc?ccb=11-4&oh=01_Q5AaIL_ubV-wN0jch6J7zyeS1bpYsmkcpxIdQTXfrkMj60LJ&oe=675B7F29&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__65907f79-3677-401d-b8c2-8bc446e60c01',
+  from: '584123814915'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '3F27871FE56D44B74630',
+    participant: undefined
+  },
+  messageTimestamp: 1731467054,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  verifiedBizName: 'Germain Gámez',
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '3FFA07ACEDAC4DBC00DA',
+    participant: undefined
+  },
+  messageTimestamp: 1731467073,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  verifiedBizName: 'Germain Gámez',
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '27C53D04DD3B27FAA622F39F3A1D8E34',
+    participant: undefined
+  },
+  messageTimestamp: 1731467100,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ole',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Germain Gámez',
+  body: 'Ole',
+  from: '584123803070'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_036568ce-a720-4f5a-9000-4212936a93b2',
+  keyword: 'key_0f4f29d2-3b2a-4f7a-8150-fe84d932c338',
+  answer: '🙌 Hola bienvenido a este *WaraWise*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '766fd9215dd4c644e4839697bb739d2d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9f4545d1-270f-4f6c-be1a-599c0de2c313',
+  keyword: 'ans_036568ce-a720-4f5a-9000-4212936a93b2',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c91940007f4fba0d577fed4157998586'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: 'A413D73EC10C08439058636AA37A0141',
+    participant: undefined
+  },
+  messageTimestamp: 1731467102,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 604800,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '3FF517D4F986EACAA377',
+    participant: undefined
+  },
+  messageTimestamp: 1731467124,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  verifiedBizName: 'Germain Gámez',
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '3F426C60B2366F9C4CD8',
+    participant: undefined
+  },
+  messageTimestamp: 1731467370,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  verifiedBizName: 'Germain Gámez',
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '3FDF4F2B36C6E1309BB0',
+    participant: undefined
+  },
+  messageTimestamp: 1731468499,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage { key: [MessageKey], type: 0 },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Germain Gámez',
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '3F1A5D322942B2FF7E2F',
+    participant: undefined
+  },
+  messageTimestamp: 1731468547,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  verifiedBizName: 'Germain Gámez',
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '21FDD18D0FB423977B05333073796252',
+    participant: undefined
+  },
+  messageTimestamp: 1731468647,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '2E5D1F0B5747D2991DD5B84AA8235F90',
+    participant: undefined
+  },
+  messageTimestamp: 1731468670,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '584123803070'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_036568ce-a720-4f5a-9000-4212936a93b2',
+  keyword: 'key_0f4f29d2-3b2a-4f7a-8150-fe84d932c338',
+  answer: '🙌 Hola bienvenido a este *WaraWise*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '766fd9215dd4c644e4839697bb739d2d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9f4545d1-270f-4f6c-be1a-599c0de2c313',
+  keyword: 'ans_036568ce-a720-4f5a-9000-4212936a93b2',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c91940007f4fba0d577fed4157998586'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '7DACE889C19E8CFF42762BC992DA992B',
+    participant: undefined
+  },
+  messageTimestamp: 1731468671,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 604800,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: 'F3DCBA3A0CC8E1F349C53803FCC9AE44',
+    participant: undefined
+  },
+  messageTimestamp: 1731468687,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '556B533A5559903B5358B284605BBE53',
+    participant: undefined
+  },
+  messageTimestamp: 1731468690,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '584123803070'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_036568ce-a720-4f5a-9000-4212936a93b2',
+  keyword: 'key_0f4f29d2-3b2a-4f7a-8150-fe84d932c338',
+  answer: '🙌 Hola bienvenido a este *WaraWise*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '766fd9215dd4c644e4839697bb739d2d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: 'F89325D1DAF0ECA6D4E06A2D08D0161A',
+    participant: undefined
+  },
+  messageTimestamp: 1731468691,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 604800,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584123803070'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9f4545d1-270f-4f6c-be1a-599c0de2c313',
+  keyword: 'ans_036568ce-a720-4f5a-9000-4212936a93b2',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c91940007f4fba0d577fed4157998586'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '459557051AB81C66E921AAA0AEF28A6E',
+    participant: undefined
+  },
+  messageTimestamp: 1731468698,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'gracias',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'gracias',
+  from: '584123803070'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_efc78df4-4a90-4c97-bddf-c54f8868ce14',
+  keyword: 'key_79bbc2a6-71a1-49e0-8eee-40f4e8f78e2d',
+  answer: '🚀 Puedes aportar tu granito de arena a este proyecto\n' +
+    '[*opencollective*] https://opencollective.com/bot-whatsapp\n' +
+    '[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez\n' +
+    '[*patreon*] https://www.patreon.com/leifermendez\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e14130017b270b43218d0a8f401acfec'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '9CDD12DA626FD9E29FF7ED53EE2A6C2A',
+    participant: undefined
+  },
+  messageTimestamp: 1731468699,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 604800,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584123803070'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: '1F704D330EFF673A1702D9C44094DD36',
+    participant: undefined
+  },
+  messageTimestamp: 1731468709,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '584123803070'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f44cf4e3-c70c-4c8b-9361-da54905bdd6b',
+  keyword: 'key_e7e7e15b-f052-4ec2-956b-99b3944a9740',
+  answer: '📄 Aquí tenemos el flujo secundario',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c0cb685eae74eaa7c7e988e0b134bc84'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123803070@s.whatsapp.net',
+    fromMe: false,
+    id: 'F373ADDEC017DFAE524701AB3B53A6D3',
+    participant: undefined
+  },
+  messageTimestamp: 1731468710,
+  pushName: 'Germain Gámez',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 604800,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584123803070'
+}
